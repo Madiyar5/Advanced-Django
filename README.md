@@ -1,17 +1,20 @@
-Building a Basic Django Project with Django Rest Framework (DRF) 
+# Building a Basic Django Project with Django Rest Framework (DRF)
 
-This tutorial will guide you through creating a basic Django project that integrates the Django Rest Framework (DRF). 
+This tutorial will guide you through creating a basic Django project that integrates the Django Rest Framework (DRF). The project will serve as a **Task Management System** to manage users, tasks, projects, categories, and priorities effectively.
 
-This project will serve as a Task Management System to manage users, tasks, projects, categories, and priorities effectively. 
+## Prerequisites
 
-Фигура 
+Before starting, make sure you have the following installed:
 
-Prerequisites 
+- Python (>= 3.8)
+- Django (>= 4.0)
+- Django Rest Framework (>= 3.14)
 
-Python (>=3.8) 
+Additionally, basic knowledge of Python and Django is required to follow along with this project.
 
-Django (>=4.0) 
+## Installation
 
-Django Rest Framework (>=3.14) 
-
-Basic knowledge of Python and Django 
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd <project_directory>
